@@ -15,14 +15,14 @@ npm install chain-icons
 ## Example: React
 
 ```js
-import polygonSVG from 'chain-icons/svg/polygon.svg';
+import polygonSVG from "chain-icons/svg/polygon.svg";
 
 export default function App() {
-	return (
-		<div>
-			<img src={polygonSVG} alt='Polygon BlockChain' width={200} height={200} />
-		</div>
-	);
+  return (
+    <div>
+      <img src={polygonSVG} alt="Polygon BlockChain" width={200} height={200} />
+    </div>
+  );
 }
 ```
 
