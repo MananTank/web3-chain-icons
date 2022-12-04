@@ -1,0 +1,8 @@
+{
+  "name": "chain-icons",
+  "version": "0.0.1",
+  "description": "Collection of SVGs of Web3 chains/networks",
+  "main": "index.js",
+  "author": "Manan Tank",
+  "license": "ISC"
+}
